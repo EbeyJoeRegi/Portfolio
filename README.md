@@ -1,4 +1,4 @@
-# Personal portfolio
+# Personal Portfolio
 
 A fully responsive personal portfolio website built using HTML, CSS, and JavaScript.
 
